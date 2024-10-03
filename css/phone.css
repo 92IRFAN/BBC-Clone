@@ -1,0 +1,125 @@
+.btn-con{
+    display: none;
+}
+
+.bbc_img_con{
+    justify-content: end;
+}
+
+
+.main_left{
+    order: 2;
+    width: 100%;
+}
+
+.main_mid{
+    order: 1;
+    width: 100%;
+}
+
+.main_right{
+    order: 3;
+    width: 100%;
+}
+
+.article{
+    display: flex;
+    font-size: 0.8rem;
+    /* border-bottom: none; */
+    padding-bottom: 8px;
+}
+
+.article p{
+    display: none;
+}
+
+.time_city p{
+    display: inline-block;
+}
+
+.main_left_container{
+    display: flex;
+    gap: 1rem;
+}
+
+.main_left_imgDiv{
+    width: 50%;
+}
+
+.article_inner_txt{
+    width: 50%;
+}
+
+.weekend_reads{
+    flex-wrap: wrap;
+}
+
+.weekend_reads_artical{
+    width: 100%;
+}
+
+.sport_card_container{
+    flex-wrap: wrap;
+}
+
+.sport_card{
+    width: 100%;
+}
+
+.art_card_container{
+
+    flex-wrap: wrap;
+}
+
+.arts_img{
+    width: 100%;
+}
+
+.arts_text_wrapper{
+    width: 100%;
+}
+
+.news_col_left_row_one{
+    flex-wrap: wrap;
+}
+
+.news_col_left_row_one div:nth-child(1){
+    width: 100%;
+    order: 2;
+}
+.news_col_left_row_one div:nth-child(2){
+    width: 100%;
+    order: 1;
+}
+
+.news_card {
+    width: 47%;
+}
+
+.watch_card {
+    min-width: 50%;
+}
+
+.featured{
+    flex-wrap: wrap;
+}
+
+.featured_card{
+    width: 100%;
+}
+
+.short_h_section{
+    row-gap: 2rem;
+}
+
+.short_col{
+    width: 100%;
+}
+
+.social_main{
+    flex-wrap: wrap;
+}
+
+.footer_top img{
+    width: 20%;
+}

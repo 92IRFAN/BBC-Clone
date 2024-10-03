@@ -1,0 +1,32 @@
+.btn-con{
+    display: none;
+    flex: 0;
+}
+
+.main_right{
+    display: block;
+}
+
+.news_card{
+    width: 100%;
+}
+
+.news_letter_card {
+    width: 100%;
+}
+
+.footer_top img {   
+    width: 33%;
+}
+
+.footer-links li{
+    line-height: 2.5;
+}
+
+.footer-links{
+    flex-direction: column;
+}
+
+.social_main{
+    flex-wrap: wrap;
+}
