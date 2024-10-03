@@ -936,7 +936,7 @@ header{
   }
   
 
-  #side_menu{
+  /* #side_menu{
     display: none;
     width: 320px;
     height: 600px;
@@ -944,4 +944,4 @@ header{
     position: absolute;
     top:57%;
     left: 0;
-  }
+  } */
